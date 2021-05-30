@@ -3,5 +3,5 @@ A Flutter Application  to view the selected quotes from <a target="_blank" rel="
 You can also set the specific quote as wallpaper/lock screen
 
 
-![Demo Gif](https://github.com/ssivanatarajan/quotes/blob/main/demo.gif?raw=true)
+<img src='https://github.com/ssivanatarajan/quotes/blob/main/demo.gif?raw=true' style="width:50%;height:400px;margin-top:50px" alt="demo ">
 
